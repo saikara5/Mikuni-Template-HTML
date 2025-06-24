@@ -1,2 +1,2 @@
 # Mikuni-Template-HTML
-this for mikuni website http://www.mikuni.gq/
+this for mikuni website https://mikuni.magnimont.com/
